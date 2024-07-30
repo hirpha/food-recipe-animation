@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/devsalem/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/devsalem/Desktop/flutter_projects/dribbble_challenge"
+export "FLUTTER_ROOT=/Users/mac/Documents/development/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/mac/Documents/dribbble_recipe_challenge"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
