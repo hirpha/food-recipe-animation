@@ -64,10 +64,11 @@ class AnimatedTextWidget extends StatelessWidget {
           textAlign: TextAlign.center,
           style: Theme.of(context).textTheme.bodyLarge),
     ).animate().scaleXY(
-        begin: 0,
-        end: 1,
-        delay: buttonDelayDuration + 300.ms,
-        duration: buttonPlayDuration,
-        curve: Curves.easeInOutCubic);
+          begin: 0,
+          end: 1,
+          delay: buttonDelayDuration + 300.ms,
+          duration: buttonPlayDuration,
+          curve: Curves.easeInOutCubic,
+        );
   }
 }
